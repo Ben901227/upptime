@@ -5,12 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: NCU
     url: https://www.ncu.edu.tw/tw/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: 中央山社部落格
+    url: https://ncumt40.blogspot.com/?m=0&fbclid=IwAR3CFhqu87zPLVOlM1dS8F1IXx8BhSYZaKLn_su6ys7Vs9pz17AdDS1sfEQ
+  - name: 中央山社IG
+    url: https://www.instagram.com/ncumountaineeringclub/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: 中央山社FB
+    url: https://www.facebook.com/ncumountaineeringclub/
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
