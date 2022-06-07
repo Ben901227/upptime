@@ -9,10 +9,12 @@ sites:
     url: https://ncumt40.blogspot.com/?m=0&fbclid=IwAR3CFhqu87zPLVOlM1dS8F1IXx8BhSYZaKLn_su6ys7Vs9pz17AdDS1sfEQ
   - name: 中央山社IG
     url: https://www.instagram.com/ncumountaineeringclub/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: 中央山社FB
     url: https://www.facebook.com/ncumountaineeringclub/
+  - name: 電價計算網頁
+    url: https://ben901227.github.io/eletronic_price_caculator_website/
+  - name: Fail webpage
+    url: https://nonexistwebsite
   
 
 status-website:
