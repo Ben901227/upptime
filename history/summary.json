@@ -4,7 +4,7 @@
     "url": "https://www.ncu.edu.tw/tw/",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "ncu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2512,
     "timeMonth": 2635,
     "timeYear": 2635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-20": 0
+    }
   },
   {
     "name": "中央山社部落格",
@@ -33,7 +35,9 @@
     "timeWeek": 118,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-20": 0
+    }
   },
   {
     "name": "中央山社IG",
@@ -78,7 +82,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +91,9 @@
     "timeWeek": 118,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-20": 0
+    }
   },
   {
     "name": "Fail webpage",
